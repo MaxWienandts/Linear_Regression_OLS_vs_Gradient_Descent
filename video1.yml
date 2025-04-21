@@ -1,0 +1,25 @@
+# Update conda: conda update -n base -c defaults conda
+# Create: conda env create --file video1.yml
+# Remove: conda remove --name video1 --all
+# Activate: conda activate video1
+# To get all libraries versions: pip list --format=freeze > requirements.txt
+
+name: video1
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python==3.10
+  - pip
+  - tqdm
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - seaborn
+  - statsmodels
+
