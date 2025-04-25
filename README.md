@@ -35,4 +35,4 @@ In essence, **gradient descent is the backbone of deep learning**. Without it, t
 By understanding gradient descent in the context of linear regression, we gain insight into the **foundational technique** powering today's most advanced machine learning systems.
 
 
-Medium article:https://medium.com/@maxwienandts/understanding-linear-regression-statistical-vs-machine-learning-approaches-08a5a5b04bbe
+Medium article: https://medium.com/@maxwienandts/understanding-linear-regression-statistical-vs-machine-learning-approaches-08a5a5b04bbe
