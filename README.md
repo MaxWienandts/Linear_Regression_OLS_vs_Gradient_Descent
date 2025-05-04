@@ -36,3 +36,5 @@ By understanding gradient descent in the context of linear regression, we gain i
 
 
 Medium article: https://medium.com/@maxwienandts/understanding-linear-regression-statistical-vs-machine-learning-approaches-08a5a5b04bbe
+
+Buy me a coffee: https://www.paypal.com/donate/?hosted_button_id=2F444HZGJBNX6
